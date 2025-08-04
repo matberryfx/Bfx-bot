@@ -1,3 +1,4 @@
 yfinance
-ta-lib
+pandas_ta
+pandas
 requests
